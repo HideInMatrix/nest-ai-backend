@@ -324,4 +324,4 @@ pnpm test:e2e
 
 ## License
 
-MIT
+Apache License 2.0
